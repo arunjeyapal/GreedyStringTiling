@@ -1,1 +1,3 @@
 This is a portable eclipse project, works with Java 7 & above. 
+
+For execution, the GreedyStringTiling.java has the main method, therefore just execute the GreedyStringTiling class found in com.nlputil.gst package. You will know what you want to do to integrate this with your code as you scan through the main method.
