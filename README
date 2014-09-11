@@ -1,3 +1,12 @@
 This is a portable eclipse project, works with Java 7 & above. 
 
-For execution, the GreedyStringTiling.java has the main method, therefore just execute the GreedyStringTiling class found in com.nlputil.gst package. You will know what you want to do to integrate this with your code as you scan through the main method.
+Implementation based on the papers "String Similarity via Greedy String Tiling 
+and Running Karp-Rabin Matching"
+http://www.pam1.bcs.uwa.edu.au/~michaelw/ftp/doc/RKR_GST.ps and "YAP3:Improved 
+Detection of Similarities in Computer Program and other Texts"
+http://www.pam1.bcs.uwa.edu.au/~michaelw/ftp/doc/yap3.ps
+
+For execution, the GreedyStringTiling.java has the main method, therefore 
+just execute the GreedyStringTiling class found in com.nlputil.gst package.
+You will know what you want to do to integrate this with your code as you scan
+through the main method.
